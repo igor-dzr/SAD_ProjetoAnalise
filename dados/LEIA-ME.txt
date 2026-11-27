@@ -1,0 +1,2 @@
+O CSV oficial será baixado para esta pasta executando: python baixar_base.py
+Fonte: portal Dados Abertos da PRF; arquivo 2024 agrupado por ocorrência.

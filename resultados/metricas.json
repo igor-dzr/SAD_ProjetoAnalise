@@ -1,0 +1,26 @@
+{
+    "arvore_decisao": {
+        "acuracia": 0.6248207089679667,
+        "precisao": 0.39393468118195957,
+        "revocacao": 0.6134657302010172,
+        "f1_score": 0.47978028222369545,
+        "matriz_confusao": {
+            "TN": 6615,
+            "FP": 3897,
+            "FN": 1596,
+            "TP": 2533
+        }
+    },
+    "regressao_logistica": {
+        "acuracia": 0.6791202786694898,
+        "precisao": 0.44699087013228994,
+        "revocacao": 0.5810123516589973,
+        "f1_score": 0.5052653748946925,
+        "matriz_confusao": {
+            "TN": 7544,
+            "FP": 2968,
+            "FN": 1730,
+            "TP": 2399
+        }
+    }
+}

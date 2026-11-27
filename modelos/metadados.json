@@ -1,0 +1,21 @@
+{
+    "features": [
+        "dia_semana",
+        "horario",
+        "uf",
+        "br",
+        "km",
+        "municipio",
+        "causa_acidente",
+        "tipo_acidente",
+        "fase_dia",
+        "sentido_via",
+        "condicao_metereologica",
+        "tipo_pista",
+        "tracado_via",
+        "uso_solo"
+    ],
+    "classe_0": "Não grave",
+    "classe_1": "Grave",
+    "regra_classificacao": "Grave quando mortos > 0 ou feridos_graves > 0"
+}
